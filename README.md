@@ -18,10 +18,10 @@ November is the month with the highest transactions, it is probably due to custo
 Review score of the product does not correlate to higher no of sales.
 ![ReviewScoreCorrelation](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/review_score_sales_correlation.jpeg)
 
-Top 10 products category with highest sales
+Top 10 products category with highest sales.
 ![TopSalesProducts](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/top_sales_product_category.jpeg)
 
-Top 10 customer cities and states with highest sales
+Top 10 customer cities and states with highest sales.
 ![TopCustomerCities](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/top_customers_city.jpeg)
 ![TopCustomerStates](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/top_customers_state.jpeg)
 
