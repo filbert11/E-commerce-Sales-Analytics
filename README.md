@@ -5,7 +5,7 @@ Sales is the most important factor in e-commerce company as it generates revenue
 
 In this project, we aim to *Explore* order items data to find interesting insights to Olist to improve their sales.
 
-This data used is Brazilian E-Commerce Public Dataset by Olist which is download from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+This data used is Brazilian E-Commerce Public Dataset by Olist which is download from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data.
 Only data in year 2017 is used in this project as the data in year 2016 and 2018 are incomplete.
 
 ## Exploratory Data Analysis
