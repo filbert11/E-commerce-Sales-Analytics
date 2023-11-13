@@ -15,7 +15,10 @@ Most of the transactions are made after 11 AM until midnight
 November is the month with the highest transactions, it is probably due to customers stocking up for Christmas
 <br> ![TransactionMonths](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/sales_time_series.jpeg)
 
-Review score of the product does not correlate to higher no of sales
+Majority of the payments made in the platform is via credit_card follows by boreto (Boleto bancário) which is an official Brazilian payment method regulated by the Central Bank of Brazil.
+<br> ![TopPaymentMethods](https://github.com/filbert11/E-commerce-Sales-Analytics/blob/main/plot/payment_methods.jpeg)
+
+Review score of the product does not correlate to higher no of sales with correlation score of 0.04
 <br> ![ReviewScoreCorrelation](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/review_score_sales_correlation.jpeg)
 
 Top 10 products category with highest sales
@@ -29,6 +32,7 @@ Top 10 customer cities and states with highest sales
 These are the findings from the e-commerce analytics:
 - Most of the transactions happen from 10 AM till midnight. If the merchants want to do flash sale, they need to do it after 10 AM for effective marketing
 - November is the month with highest transactions. The merchants should aim to clear their stocks at this month
-- High review score does not translate to higher sales of products
+- High review score does not translate to higher sales of products with correlation score of 0.04
 - These are the top 10 products category with highest sales on the platform: bed_bath_table, sports_leisure, health_beauty, furniture_decor, computers_accessories, toys, housewares, cool_stuff, watches_gifts, telephony. New merchants or existing merchants can aim to expand to these products category to increase their overall sales
 - Top 3 sales are made from customers from these cities: sao paulo, rio de janeiro, and belo horizonte. Similarly, top 3 sales are made from these states: SP, RJ and MG. Merchants would want to target these cities or states to boost overall sales
+- Top payment methods are credit_card follows by boreto. Merchants should allow customers to make payments by these two methods to stay competitive in the market
