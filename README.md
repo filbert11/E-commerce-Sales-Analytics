@@ -15,7 +15,7 @@ Most of the transactions are made after 11 AM until midnight
 November is the month with the highest transactions, it is probably due to customers stocking up for Christmas
 <br> ![TransactionMonths](https://github.com/filbert11/ecommerce-sales-analytics/blob/main/plot/sales_time_series.jpeg)
 
-Majority of the payments made in the platform is via credit_card follows by boreto (Boleto bancário) which is an official Brazilian payment method regulated by the Central Bank of Brazil.
+Majority of the payments made in the platform is via credit_card follows by boreto (Boleto bancário) which is an official Brazilian payment method regulated by the Central Bank of Brazil
 <br> ![TopPaymentMethods](https://github.com/filbert11/E-commerce-Sales-Analytics/blob/main/plot/payment_methods.jpeg)
 
 Review score of the product does not correlate to higher no of sales with correlation score of 0.04
