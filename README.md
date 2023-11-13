@@ -35,4 +35,4 @@ These are the findings from the e-commerce analytics:
 - High review score does not translate to higher sales of products with correlation score of 0.04
 - These are the top 10 products category with highest sales on the platform: bed_bath_table, sports_leisure, health_beauty, furniture_decor, computers_accessories, toys, housewares, cool_stuff, watches_gifts, telephony. New merchants or existing merchants can aim to expand to these products category to increase their overall sales
 - Top 3 sales are made from customers from these cities: sao paulo, rio de janeiro, and belo horizonte. Similarly, top 3 sales are made from these states: SP, RJ and MG. Merchants would want to target these cities or states to boost overall sales
-- Top payment methods are credit_card follows by boreto. Merchants should allow customers to make payments by these two methods to stay competitive in the market
+- Top payment methods are credit_card follows by boreto. Merchants should provides customers with these two payment methods to stay competitive in the market
